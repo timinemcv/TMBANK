@@ -1,0 +1,50 @@
+*{margin: 0%;padding: 0%;}
+.welcome{width: 50%;justify-content: center;background-color:black;margin-left: 350px;height: 700px;}
+.welcome .row1{background-color: orange;text-align: center;width: 600px;margin-left: 60px;margin-top: 30px;height: 700px;}
+.welcome h1{font-size: 32px;font-weight: 700;color: black;}
+.welcome p{margin-top: 400px;color: black;font-size: 22px;font-weight: 500;}
+.welcome a{text-decoration: none;color: black;border-radius: 8px;border: 2px solid black;background-color: bisque;padding: 10px 12px;margin-top: 10px;
+}
+
+.please{width: 50%;justify-content: center;background-color:black;margin-left: 350px;height: 400px;}
+.please .row{background-color: orange;text-align: center;width: 600px;margin-left: 60px;margin-top: 30px;height: 400px;}
+.please .row1 h1{margin-top: 500px;color: white;}
+.please .row1 p{margin: 30px;color: white;font-size: 22px;font-weight: 600;}
+.please a{text-decoration: none;color: white;border-radius: 3px;border: 1px solid bisque;padding: 10px;background-color: black;}
+
+
+.what{width: 50%;justify-content: center;background-color:black;margin-left: 350px;height: 400px;}
+.what .col{background-color: orange;text-align: center;width: 600px;margin-left: 60px;margin-top: 30px;height: 400px;}
+.what h1{margin-top: 30px;}
+.what .row{display: grid;grid-template-columns: 1fr 1fr;padding: 10px;height: 300px;margin-top: 50px;}
+.what .row a{text-decoration: none;color: white;border-radius: 3px;border: 1px solid bisque;padding: 10px;background-color: black;}
+
+.select{width: 50%;justify-content: center;background-color:black;margin-left: 350px;height: 400px;}
+.select .row{background-color: orange;text-align: center;width: 600px;margin-left: 60px;margin-top: 30px;height: 400px;}
+.select .col{text-align: right;margin-top: 50px;padding-bottom: 30px;}
+.select p{margin-top: 30px;}
+.select a{text-decoration: none;color: white;background-color: black;padding: 10px;margin-bottom: 30px;}
+
+
+.amount{width: 50%;justify-content: center;background-color:black;margin-left: 350px;height: 400px;}
+.amount .col{background-color: orange;text-align: center;width: 600px;margin-left: 60px;margin-top: 30px;height: 400px;}
+.amount h1{margin-top: 30px;}
+.amount .row{display: grid;grid-template-columns: 1fr 1fr;padding: 10px;height: 300px;margin-top: 50px;}
+.amount .row a{text-decoration: none;color: white;border-radius: 3px;border: 1px solid bisque;padding: 10px;background-color: black;}
+
+.receipt{width: 50%;justify-content: center;background-color:black;margin-left: 350px;height: 400px;}
+.receipt .col{background-color: orange;text-align: center;width: 600px;margin-left: 60px;margin-top: 30px;height: 400px;}
+.receipt .row{display: flex;width: 90%;justify-content: space-between;text-align: center;padding-left: 20px;margin-top: 50px;}
+.receipt .col h1{font-size: 32px;font-weight: 900;}
+.receipt .row a{text-decoration: none;background-color: black;color: white;border-radius: 3px;border: 2px solid bisque;padding: 10px 10px;}
+
+.collect{width: 50%;justify-content: center;background-color:black;margin-left: 350px;height: 400px;}
+.collect .col{background-color: orange;text-align: center;width: 600px;margin-left: 60px;margin-top: 30px;height: 400px;}
+.collect .col h1{font-size: 32px;font-weight: 900}
+.collect .row a{text-decoration: none;background-color: black;color: white;border-radius: 3px;border: 2px solid bisque;padding: 10px 10px;}
+
+.thanks{width: 50%;justify-content: center;background-color:black;margin-left: 350px;height: 400px;}
+.thanks .col{background-color: orange;text-align: center;width: 600px;margin-left: 60px;margin-top: 30px;height: 400px;}
+.thanks .col .row h1{font-size: 22px;font-weight: 900;}
+.thanks p{font-size: 22px;font-weight: 700}
+.thanks .col .row{margin-top: 30px;}
